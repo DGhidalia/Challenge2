@@ -5,13 +5,17 @@
    Author: Davide Scaramuzza - email: davide.scaramuzza@ieee.org
 ------------------------------------------------------------------------------*/
 #define _USE_MATH_DEFINES
+#define _CRT_SECURE_NO_DEPRECATE
 
 #include <stdlib.h>
+#include <iostream>
 #include <stdio.h>
 #include <float.h>
 #include <math.h>
 #include <opencv/cv.h>
 #include <opencv2/highgui/highgui.hpp>
+#include <opencv2\core\core.hpp>
+#include <opencv2\imgproc\imgproc.hpp>
 
 
 #define CMV_MAX_BUF 1024

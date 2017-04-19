@@ -1,2 +1,3 @@
 ﻿  main.cpp
-c:\users\david.ghidalia\documents\github\challenge2\projc\projetc\projetc\main.cpp(3): error C2871: 'cv' : un espace de noms avec ce nom n'existe pas
+  ProjetC.vcxproj -> C:\Users\david.ghidalia\Documents\GitHub\Challenge2\projC\ProjetC\x64\Debug\ProjetC.exe
+  ProjetC.vcxproj -> C:\Users\david.ghidalia\Documents\GitHub\Challenge2\projC\ProjetC\x64\Debug\ProjetC.pdb (Full PDB)
