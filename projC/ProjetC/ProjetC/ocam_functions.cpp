@@ -181,7 +181,7 @@ void create_panoramic_undistortion_LUT ( CvMat *mapx, CvMat *mapy, float Rmin, f
      int i, j;
      float theta;
      int width = mapx->width;
-     int height = mapx->height;     
+     int height = mapx->height;
      float *data_mapx = mapx->data.fl;
      float *data_mapy = mapy->data.fl;
      float rho;
